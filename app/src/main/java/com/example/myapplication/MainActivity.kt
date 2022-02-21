@@ -11,6 +11,6 @@ class MainActivity : AppCompatActivity() {
 
     }
     fun mensaje(){
-        println("prueba git")
+        println("prueba 2")
     }
 }
